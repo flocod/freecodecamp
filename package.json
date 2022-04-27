@@ -1,5 +1,6 @@
-{	"author":"Tchomga Florian",
+{	
 	"name": "fcc-learn-npm-package-json",
+	"author":"Tchomga Florian",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
@@ -9,6 +10,6 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://idontknow/todo.git"
+		"url": "https://github.com/flocod/freecodecamp.git"
 	}
 }
